@@ -4,7 +4,7 @@
   "description": "a very rough and basic riak protobuf client",
   "main": "index.js",
   "dependencies": {
-    "protobuf.js": "git://github.com/keikku/protobuf.js.git",
+    "protobuf.js": "http://github.com/keikku/protobuf.js/tarball/master",
     "butils": ""
   },
   "devDependencies": {
